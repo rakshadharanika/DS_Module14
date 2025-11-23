@@ -23,6 +23,9 @@ Developed by: V RAKSHA DHARANIKA
 RegisterNumber: 212223230167
 ```
 
+
+```PY
+
 class RemoveNodes {
     static class Node {
         int data;
